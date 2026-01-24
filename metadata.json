@@ -1,0 +1,5 @@
+{
+  "name": "Harmonic Oscillator",
+  "description": "A visualization where a column of numbers moves at speeds proportional to their value, creating harmonic patterns.",
+  "requestFramePermissions": []
+}
